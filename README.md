@@ -30,7 +30,7 @@ Gookye-Company/
 │   ├── App.tsx
 │   ├── screens/
 │   │   └── HomeScreen.tsx
-│   ├─��� components/
+│   ├── components/
 │   │   ├── TaskItem.tsx
 │   │   ├── TaskInput.tsx
 │   │   └── EmptyState.tsx
