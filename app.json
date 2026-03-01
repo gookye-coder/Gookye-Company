@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Todo App",
+    "slug": "todo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A simple to-do list application with local storage functionality using React Native and Expo",
+    "githubUrl": "https://github.com/gookye-coder/Gookye-Company"
+  }
+}
